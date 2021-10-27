@@ -7,4 +7,8 @@ Este es un archivo que se encuentra como base para hacer el ejercicio inicial de
 
 ### INTEGRANTES
    Gustavo Adolfo Bonilla González
+<<<<<<< HEAD
    Javier de Alba Pérez
+=======
+   Diego Eduardo Garcia Mendoza
+>>>>>>> 468d215d09796d7727b84a3a6bb06028040604dc
