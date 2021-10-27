@@ -3,8 +3,8 @@
 Este es un archivo que se encuentra como base para hacer el ejercicio inicial de GIT por Equipos.
 
 ## Equipo
-**Número de Equipo**  XXX
+**Número de Equipo: 3**  La comunidad del anillo xD
 
 ### INTEGRANTES
-   NOMBRE DEL PRIMER INTEGRANTE
+   Gustavo Adolfo Bonilla González
    
