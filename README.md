@@ -12,4 +12,4 @@ Este es un archivo que se encuentra como base para hacer el ejercicio inicial de
 
    Diego Eduardo Garcia Mendoza
    
-   
+   Alonso Nuñez Rodriguez
