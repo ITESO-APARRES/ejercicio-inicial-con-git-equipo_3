@@ -7,4 +7,4 @@ Este es un archivo que se encuentra como base para hacer el ejercicio inicial de
 
 ### INTEGRANTES
    Gustavo Adolfo Bonilla González
-   
+   Diego Eduardo Garcia Mendoza
